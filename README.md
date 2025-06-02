@@ -8,8 +8,8 @@
 
 1. **Clone o repositório (se necessário):**
    ```bash
-   git clone <url-do-repositorio>
-   cd n8n
+   git clone https://github.com/luizfilipeschaeffer/n8n-waha
+   cd n8n-waha
    ```
 
 2. **Suba os containers:**
